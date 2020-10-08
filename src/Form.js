@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import {
     Avatar,
     Button,
-    CssBaseline,
     FormControl,
     FormControlLabel,
     Checkbox,
