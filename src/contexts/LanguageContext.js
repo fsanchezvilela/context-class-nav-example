@@ -22,3 +22,10 @@ export default class LanguageProvider extends Component {
         )
     }
 }
+
+//make a hoc
+export const withLangaugeContext = Component => props => (
+    <LanguageContext.Consumer>
+        { value => <Component languageContext={value} {...props} />}
+    </LanguageContext.Consumer>
+)
