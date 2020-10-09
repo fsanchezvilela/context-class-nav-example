@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/context-class-nav-example/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/context-class-nav-example/static/js/main.2f8643f4.chunk.js",
+    "main.js.map": "/context-class-nav-example/static/js/main.2f8643f4.chunk.js.map",
+    "runtime-main.js": "/context-class-nav-example/static/js/runtime-main.f958c85b.js",
+    "runtime-main.js.map": "/context-class-nav-example/static/js/runtime-main.f958c85b.js.map",
+    "static/js/2.d71fbdeb.chunk.js": "/context-class-nav-example/static/js/2.d71fbdeb.chunk.js",
+    "static/js/2.d71fbdeb.chunk.js.map": "/context-class-nav-example/static/js/2.d71fbdeb.chunk.js.map",
+    "index.html": "/context-class-nav-example/index.html",
+    "precache-manifest.d9b5e6418ae1924a692e69b23cb8c52b.js": "/context-class-nav-example/precache-manifest.d9b5e6418ae1924a692e69b23cb8c52b.js",
+    "service-worker.js": "/context-class-nav-example/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/context-class-nav-example/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d71fbdeb.chunk.js.LICENSE.txt": "/context-class-nav-example/static/js/2.d71fbdeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f958c85b.js",
+    "static/js/2.d71fbdeb.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2f8643f4.chunk.js"
+  ]
+}
